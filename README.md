@@ -1,4 +1,4 @@
 # First-repo
 First repository on github
 <br>
-Author: Ayush Bhosale
+Author: Ayush Bhosale (TE comps)
